@@ -1,0 +1,243 @@
+2020-11-19 00:02:03,421 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:02:04,549 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:02:05,565 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:02:06,620 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:02:07,633 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:02:08,664 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:02:09,676 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:02:10,697 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:04:44,547 ERROR c.r.B.S.DepositAccountScreen [main] INPUT: message: Index: 3, Size: 2 username: jesuisjavi account#: 1155
+2020-11-19 00:15:32,135 ERROR c.r.B.S.DepositAccountScreen [main] INPUT: message: null username: jesuisjavi account#: 1155
+2020-11-19 00:16:40,398 ERROR c.r.B.S.AccountScreen [main] INPUT: message: Index: 8, Size: 1 username: jesuisjavi
+2020-11-19 00:28:28,148 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:28:29,184 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:28:30,170 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:28:31,186 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:28:32,223 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:28:33,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 00:28:34,306 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:28:35,371 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 00:30:56,284 ERROR c.r.B.S.OpenAccountScreen [main] INPUT: message: null
+2020-11-19 00:31:28,719 ERROR c.r.B.S.AccountScreen [main] INPUT: message: null username: sarahp
+2020-11-19 00:46:11,662 ERROR c.r.B.S.CostumerLoginScreen [main] LOGIN: User not found. username: sarahpa
+2020-11-19 01:08:46,623 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 01:08:47,654 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 01:08:48,670 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 01:08:49,690 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 01:08:50,753 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 01:08:51,846 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 01:08:52,862 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 01:08:53,877 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 07:57:06,081 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(123456999) is not present in table "costumer".
+2020-11-19 08:06:59,690 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:07:30,110 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:07:32,125 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:07:35,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:07:36,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:07:37,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:07:38,266 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:07:39,266 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:07:40,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:07:41,297 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:07:42,281 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:10:09,505 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:10:12,434 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:14:55,016 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:14:56,516 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:16:59,588 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:19:02,980 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:19:04,511 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:21:01,005 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:22:34,909 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:24:21,774 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:28:46,374 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: duplicate key value violates unique constraint "depositaccount_pkey"
+  Detail: Key (accountnumber)=(12345111) already exists.
+2020-11-19 08:32:06,828 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(8824579) is not present in table "costumer".
+2020-11-19 08:32:50,521 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6818164) is not present in table "costumer".
+2020-11-19 08:33:48,683 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(3037208) is not present in table "costumer".
+2020-11-19 08:34:59,808 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6443978) is not present in table "costumer".
+2020-11-19 08:35:00,839 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(5212984) is not present in table "depositaccount".
+2020-11-19 08:35:01,354 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6443978) is not present in table "costumer".
+2020-11-19 08:35:15,876 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(8681544) is not present in table "costumer".
+2020-11-19 08:35:16,923 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(9850701) is not present in table "depositaccount".
+2020-11-19 08:35:17,439 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(8681544) is not present in table "costumer".
+2020-11-19 08:35:18,954 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(1518626) is not present in table "costumer".
+2020-11-19 08:35:20,587 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(9306756) is not present in table "costumer".
+2020-11-19 08:35:22,087 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:35:23,087 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:35:24,103 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:35:25,118 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:35:26,274 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:35:27,290 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:35:28,306 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:35:29,290 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:36:29,186 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6683041) is not present in table "costumer".
+2020-11-19 08:36:30,217 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(5604478) is not present in table "depositaccount".
+2020-11-19 08:36:30,748 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6683041) is not present in table "costumer".
+2020-11-19 08:36:32,279 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(9773143) is not present in table "costumer".
+2020-11-19 08:36:33,826 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(7469431) is not present in table "costumer".
+2020-11-19 08:36:35,342 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:36:36,388 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:36:37,388 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:36:38,404 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:36:39,451 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:36:40,482 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 08:36:41,482 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 08:36:42,497 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:00:33,506 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(3203964) is not present in table "costumer".
+2020-11-19 09:00:34,536 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(5840052) is not present in table "depositaccount".
+2020-11-19 09:00:35,057 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(3203964) is not present in table "costumer".
+2020-11-19 09:00:36,579 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(8391616) is not present in table "costumer".
+2020-11-19 09:00:38,097 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(8753986) is not present in table "costumer".
+2020-11-19 09:00:39,656 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:00:40,661 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:00:41,680 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:00:42,697 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:00:43,700 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:00:44,715 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:00:45,716 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:00:46,764 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:02:55,295 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(9684138) is not present in table "costumer".
+2020-11-19 09:02:56,305 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(6675485) is not present in table "depositaccount".
+2020-11-19 09:02:56,823 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(9684138) is not present in table "costumer".
+2020-11-19 09:02:58,296 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(7001535) is not present in table "costumer".
+2020-11-19 09:02:59,791 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(7072259) is not present in table "costumer".
+2020-11-19 09:03:01,274 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:03:02,263 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:03:03,265 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:03:04,284 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:03:05,259 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:03:06,231 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 09:03:07,210 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:03:08,190 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 09:08:00,317 ERROR c.r.B.S.LineOfCreditAccountScreen [main] INPUT: message: null username: jesuisjavi account#: 2191
+2020-11-19 10:17:22,321 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(5023055) is not present in table "costumer".
+2020-11-19 10:17:23,284 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(3243673) is not present in table "depositaccount".
+2020-11-19 10:17:23,779 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(5023055) is not present in table "costumer".
+2020-11-19 10:17:25,210 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(6202526) is not present in table "costumer".
+2020-11-19 10:17:26,748 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccount" violates foreign key constraint "depositaccount_ssn_fkey"
+  Detail: Key (ssn)=(7307814) is not present in table "costumer".
+2020-11-19 10:17:28,255 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 10:17:29,264 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 10:17:30,251 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 10:17:31,251 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 10:17:32,236 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 10:17:33,240 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12345) is not present in table "depositaccount".
+2020-11-19 10:17:34,253 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
+2020-11-19 10:17:35,234 ERROR c.r.D.DepositAccountRepo [main] JDBC: SQLException message: ERROR: insert or update on table "depositaccttranshist" violates foreign key constraint "depositaccttranshist_accountnumber_fkey"
+  Detail: Key (accountnumber)=(12356) is not present in table "depositaccount".
